@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Parameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <vtad>HAVUZ_RESTAURANT</vtad>
+  <yedekleme>false</yedekleme>
+  <yedekdosyayol>c:\\Yedek\</yedekdosyayol>
+  <logdosyayol>c:\\logs\</logdosyayol>
+  <logdosyaad>d:\\servis.txt</logdosyaad>
+  <ftpadres>ftp://haktanakdag.com/public_html/yedek/</ftpadres>
+  <ftpkulad>haktanak</ftpkulad>
+  <ftpsifre>YW40jb6i6d</ftpsifre>
+  <webserviceadres>http://192.168.0.20:8087/WebService.asmx?op=Insert</webserviceadres>
+  <saat>11:17</saat>
+</Parameters>
