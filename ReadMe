@@ -1,0 +1,8 @@
+Parametreler XML ile işlemlerinin ayarlanabildiği
+yedekleme yapabilen
+loglama yapabilen
+yedekleri sıkıştırıp belirtilen ftpye kopyalayan
+dbupdate özelliği olan
+web service ile başka bir sunucudaki scriptleri çeken ve kendi veritabanında çalıştırabilen
+belirtilen saatte timer ile tetiklenip çalıştırılan
+ve şubeli yapıya uygun bir windows servicedir.
