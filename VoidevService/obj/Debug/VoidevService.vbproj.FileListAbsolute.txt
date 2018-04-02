@@ -1,0 +1,16 @@
+C:\vs\VoidevService\VoidevService\bin\Debug\VoidevService.exe.config
+C:\vs\VoidevService\VoidevService\bin\Debug\VoidevService.exe.manifest
+C:\vs\VoidevService\VoidevService\bin\Debug\VoidevService.application
+C:\vs\VoidevService\VoidevService\bin\Debug\VoidevService.exe
+C:\vs\VoidevService\VoidevService\bin\Debug\VoidevService.pdb
+C:\vs\VoidevService\VoidevService\bin\Debug\VoidevService.xml
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.Resources.resources
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.ProjectInstaller.resources
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.VoidevService.resources
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.vbproj.GenerateResource.cache
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.vbproj.CoreCompileInputs.cache
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.exe.manifest
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.application
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.exe
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.xml
+C:\vs\VoidevService\VoidevService\obj\Debug\VoidevService.pdb

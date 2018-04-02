@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VoidevService
+</name>
+</assembly>
+<members>
+<member name="T:VoidevService.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VoidevService.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VoidevService.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:VoidevService.WebReference.WebService">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.#ctor">
+<remarks/>
+</member>
+<member name="E:VoidevService.WebReference.WebService.InsertCompleted">
+<remarks/>
+</member>
+<member name="E:VoidevService.WebReference.WebService.SelectScriptCompleted">
+<remarks/>
+</member>
+<member name="E:VoidevService.WebReference.WebService.UpdateScriptCompleted">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.Insert(System.Int32,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.InsertAsync(System.Int32,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.InsertAsync(System.Int32,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.SelectScript(System.Int32)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.SelectScriptAsync(System.Int32)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.SelectScriptAsync(System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.UpdateScript(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.UpdateScriptAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.UpdateScriptAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:VoidevService.WebReference.WebService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:VoidevService.WebReference.InsertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:VoidevService.WebReference.SelectScriptCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:VoidevService.WebReference.SelectScriptCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:VoidevService.WebReference.SelectScriptCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:VoidevService.WebReference.UpdateScriptCompletedEventHandler">
+<remarks/>
+</member>
+</members>
+</doc>
